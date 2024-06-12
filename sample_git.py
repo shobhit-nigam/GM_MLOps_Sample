@@ -11,4 +11,8 @@ print(secret_value)
 
 # COMMAND ----------
 
+print("hello")
+
+# COMMAND ----------
+
 
